@@ -781,8 +781,8 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>presence</a:Code>
 <a:CreationDate>1479657333</a:CreationDate>
 <a:Creator>A.I</a:Creator>
-<a:ModificationDate>1479655670</a:ModificationDate>
-<a:Modifier>A.I</a:Modifier>
+<a:ModificationDate>1481009082</a:ModificationDate>
+<a:Modifier>mreight</a:Modifier>
 <a:Location>file:///%[PRJ_ROOT_DIR]%/presence.oom</a:Location>
 <a:Extension>oom</a:Extension>
 <a:ModelDocument.ModelID>5FAAB667-3459-4D91-BEB4-6F8A0B5755E4</a:ModelDocument.ModelID>
@@ -833,8 +833,8 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>CLASS</a:Code>
 <a:CreationDate>1481006368</a:CreationDate>
 <a:Creator>A.I</a:Creator>
-<a:ModificationDate>1480778232</a:ModificationDate>
-<a:Modifier>A.I</a:Modifier>
+<a:ModificationDate>1481008719</a:ModificationDate>
+<a:Modifier>mreight</a:Modifier>
 <a:Location>file:///%[PRJ_ROOT_DIR]%/CLASSfinal.oom</a:Location>
 <a:Extension>oom</a:Extension>
 <a:ModelDocument.ModelID>217469D5-16AE-4F2D-8DD2-348ECA0191A0</a:ModelDocument.ModelID>
