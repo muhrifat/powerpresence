@@ -2282,7 +2282,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>2124</a:DistanceFromILink>
 <a:PercentOfLinkLength>27</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(2124, 0)</a:DestinationAnchorOffset>
-<a:Rect>((-8222,-6515), (1965,-2715))</a:Rect>
+<a:Rect>((715,-6515), (1965,-2715))</a:Rect>
 <a:ListOfPoints>((1340,-6115),(1340,-3115))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -2333,7 +2333,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>3106</a:DistanceFromILink>
 <a:PercentOfLinkLength>67</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(0, 3106)</a:DestinationAnchorOffset>
-<a:Rect>((-15250,3401), (-38,5100))</a:Rect>
+<a:Rect>((-3838,3401), (-38,4651))</a:Rect>
 <a:ListOfPoints>((-438,4026),(-3438,4026))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -2357,7 +2357,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>648</a:DistanceFromILink>
 <a:PercentOfLinkLength>51</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(0, 648)</a:DestinationAnchorOffset>
-<a:Rect>((-18201,943), (-2989,2642))</a:Rect>
+<a:Rect>((-6789,943), (-2989,2193))</a:Rect>
 <a:ListOfPoints>((-3389,1568),(-6389,1568))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -2381,7 +2381,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>-1094</a:DistanceFromILink>
 <a:PercentOfLinkLength>63</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(0, -1094)</a:DestinationAnchorOffset>
-<a:Rect>((-10512,-799), (-775,900))</a:Rect>
+<a:Rect>((-4575,-799), (-775,451))</a:Rect>
 <a:ListOfPoints>((-4175,-174),(-1175,-174))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -2430,7 +2430,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>2576</a:DistanceFromILink>
 <a:PercentOfLinkLength>53</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(2576, 0)</a:DestinationAnchorOffset>
-<a:Rect>((11881,785), (19945,5142))</a:Rect>
+<a:Rect>((18695,785), (19945,4585))</a:Rect>
 <a:ListOfPoints>((19320,1185),(19320,4185))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -2480,7 +2480,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>4688</a:DistanceFromILink>
 <a:PercentOfLinkLength>61</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(4688, 0)</a:DestinationAnchorOffset>
-<a:Rect>((12546,7415), (18459,11215))</a:Rect>
+<a:Rect>((17209,7415), (18459,11215))</a:Rect>
 <a:ListOfPoints>((17834,10815),(17834,7815))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -2504,7 +2504,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>-1203</a:DistanceFromILink>
 <a:PercentOfLinkLength>64</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(-1203, 0)</a:DestinationAnchorOffset>
-<a:Rect>((6581,7739), (12568,11539))</a:Rect>
+<a:Rect>((11318,7739), (12568,11539))</a:Rect>
 <a:ListOfPoints>((11943,8139),(11943,11139))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -2554,7 +2554,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>1346</a:DistanceFromILink>
 <a:PercentOfLinkLength>69</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(0, 1346)</a:DestinationAnchorOffset>
-<a:Rect>((-5812,16182), (1376,17881))</a:Rect>
+<a:Rect>((-2424,16182), (1376,17432))</a:Rect>
 <a:ListOfPoints>((-2024,16807),(976,16807))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -2578,7 +2578,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:DistanceFromILink>-2393</a:DistanceFromILink>
 <a:PercentOfLinkLength>69</a:PercentOfLinkLength>
 <a:DestinationAnchorOffset>(0, -2393)</a:DestinationAnchorOffset>
-<a:Rect>((-6412,12443), (1376,14142))</a:Rect>
+<a:Rect>((-2424,12443), (1376,13693))</a:Rect>
 <a:ListOfPoints>((976,13068),(-2024,13068))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
