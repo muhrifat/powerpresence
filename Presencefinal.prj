@@ -526,7 +526,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>36F5BE3B-8B65-4037-9D02-D62FF338A5C6</a:CustomPictureID>
+<a:CustomPictureID>E7F12ADA-7F88-4794-865E-0EA02E15FA63</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -548,7 +548,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>36F5BE3B-8B65-4037-9D02-D62FF338A5C6</a:CustomPictureID>
+<a:CustomPictureID>E7F12ADA-7F88-4794-865E-0EA02E15FA63</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -570,7 +570,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>36F5BE3B-8B65-4037-9D02-D62FF338A5C6</a:CustomPictureID>
+<a:CustomPictureID>E7F12ADA-7F88-4794-865E-0EA02E15FA63</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -592,7 +592,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>D9277047-A479-401D-8BA8-609BFFB0F2B8</a:CustomPictureID>
+<a:CustomPictureID>B6CF6CC5-486D-4307-A487-9FBE06DA985A</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -614,7 +614,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>E09DB490-4852-4CFB-BC17-3E8D43E1ED31</a:CustomPictureID>
+<a:CustomPictureID>0B2F1136-0F29-4119-98D8-CFBBDCF8AE52</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -635,7 +635,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>36F5BE3B-8B65-4037-9D02-D62FF338A5C6</a:CustomPictureID>
+<a:CustomPictureID>E7F12ADA-7F88-4794-865E-0EA02E15FA63</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -817,7 +817,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:CreationDate>1479657333</a:CreationDate>
 <a:Creator>A.I</a:Creator>
 <a:ModificationDate>1481220488</a:ModificationDate>
-<a:Modifier>A.I</a:Modifier>
+<a:Modifier>mreight</a:Modifier>
 <a:Location>file:///%[PRJ_ROOT_DIR]%/presence.oom</a:Location>
 <a:Extension>oom</a:Extension>
 <a:ModelDocument.ModelID>5FAAB667-3459-4D91-BEB4-6F8A0B5755E4</a:ModelDocument.ModelID>
